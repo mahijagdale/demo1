@@ -1,0 +1,43 @@
+   66  cd /.ssh/
+   67  ls -a
+   68  cd /.ssh
+   69  cd ~/.ssh
+   70  ls -a
+   71  cat authorized_keys
+   72  git --version
+   73  cd ..
+   74  ls
+   75  ls -a
+   76  exit
+   77  yum install git -y
+   78  mkdit devops
+   79  mkdir devops
+   80  ls
+   81  cd devops
+   82  git init
+   83  ls -a
+   84  git status
+   85  vi hello.txt
+   86  cat hello.txt
+   87  git clone https://github.com/mahijagdale/demo1.git
+   88  ls
+   89  ls -a
+   90  git add hello.txt
+   91  git status
+   92  git commit -m "my trial commit"
+   93  git status
+   94  git push -u origin master
+   95  git status
+   96  yum install git-core -y
+   97  ls -a
+   98  cd /.git
+   99  cd ~/.git
+  100  cd~ /.git/
+  101  history
+  102  cd~/.git
+  103  cd ~/.git
+  104  ls
+  105  cd demo1
+  106  ls
+  107  history
+
